@@ -1,0 +1,84 @@
+{
+  "carousel": [
+    {
+      "code": 0,
+      "images": "http://www.atool.org/placeholder.png?size=500x140&text=轮播占位&fg=fff"
+    },
+    {
+      "code": 1,
+      "images": "http://www.atool.org/placeholder.png?size=500x140&text=轮播占位&fg=fff"
+    },
+    {
+      "code": 2,
+      "images": "http://www.atool.org/placeholder.png?size=500x140&text=轮播占位&fg=fff"
+    },
+    {
+      "code": 3,
+      "images": "http://www.atool.org/placeholder.png?size=500x140&text=轮播占位&fg=fff"
+    }
+  ],
+
+  "playlists": [
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 1,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "新歌榜"
+    },
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 2,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "热歌榜"
+    },
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 11,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "摇滚榜"
+    },
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 12,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "爵士"
+    },
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 16,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "流行"
+    },
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 21,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "欧美金曲榜"
+    },
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 22,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "经典老歌榜"
+    },
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 23,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "情歌对唱榜"
+    },
+    {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 24,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "影视金曲榜"
+    }, {
+      "name": "寻声计划Vol.3° | 满藏故事的欧美大叔嗓",
+      "id": 25,
+      "coverImgUrl": "http://p1.music.126.net/go8YvPyrSfBSD5oy8Rt_vw==/109951163031970810.jpg",
+      "description": "网络歌曲榜"
+    }
+  ],
+  "code": 0,
+  "info": true
+}
